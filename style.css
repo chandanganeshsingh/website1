@@ -42,7 +42,7 @@ a:hover{
     color: #edeffe;
 }
 a:visited{
-    color: none;
+    color: black;
 }
 section{
     display: flex;
